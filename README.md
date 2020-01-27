@@ -25,3 +25,8 @@ Get-SQSResourceTag -QueueUrl $sqs -Region $AwsRegion -ProfileName $AwsCredential
 }
 Write-Host *** 
 ###scritp ENDs here
+
+
+Save the above scritp in your local PC.
+
+Run the script with Mandanotory parameters. 
